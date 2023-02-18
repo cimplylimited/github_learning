@@ -10,3 +10,8 @@ The version found here has been updated with corrections and additions from hund
 
 https://www.youtube.com/watch?v=5BSpJ0bpE14
 How to use the github desktop app to use a repository from a Graphical User Interface.
+
+
+
+https://docs.pyup.io/docs/securing-your-python-environments
+Helping secure your github environment
